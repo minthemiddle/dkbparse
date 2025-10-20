@@ -4,3 +4,7 @@
 *.yaml
 .venv/
 venv/
+CLAUDE.md
+.DS_Store
+*.pdf
+__pycache__
